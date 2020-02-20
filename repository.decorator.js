@@ -1,4 +1,4 @@
-"Example Code";
+"Example Code"
 
 /** Part 1 */
 const foo = () => console.log("First"); // The first item in call stack
