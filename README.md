@@ -11,7 +11,10 @@
 1. JavaScript Visualized: Event Loop
 2. JavaScript Visualized: Hoisting
 3. JavaScript Visualized: Scope (Chain)
-  3-1. Exection Contexts (Supplement)
 4. JavaScript Visualized: the JavaScript Engine
 5. JavaScript Visualized: Prototypal Inheritance
 6. JavaScript Visualized: Generators and Iterators
+
+#### 부록
+- 실행 컨텍스트 : Exection Contexts
+
